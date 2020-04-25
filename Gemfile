@@ -25,6 +25,8 @@ gem 'jbuilder', '~> 2.7'
 gem 'autoprefixer-rails'
 gem 'font-awesome-sass', '~> 5.12.0'
 gem 'simple_form'
+gem "select2-rails"
+gem 'select2_simple_form', github: 'lndl/select2_simple_form', tag: '0.7.3'
 
 # Use Active Storage variant
 # gem 'image_processing', '~> 1.2'
